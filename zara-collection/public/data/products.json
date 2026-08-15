@@ -1,0 +1,422 @@
+[
+  {
+    "id": "short-01",
+    "category": "short-kurti",
+    "name": "Purple Bandhani Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Cute bandhani printed short kurti with a comfortable and stylish design.",
+    "image": "https://i.pinimg.com/736x/4d/bd/7e/4dbd7e7eff693f9f1260f08a045da0ed.jpg"
+  },
+  {
+    "id": "short-02",
+    "category": "short-kurti",
+    "name": "Elegant Blue Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Elegant blue kurti perfect for college, casual outings and daily wear.",
+    "image": "https://i.pinimg.com/736x/1c/a5/ec/1ca5ec74294f0490196d62a11d824db4.jpg"
+  },
+  {
+    "id": "short-03",
+    "category": "short-kurti",
+    "name": "Peach Printed Kurti",
+    "sizes": ["S", "M", "L"],
+    "description": "Soft peach coloured kurti with a beautiful feminine print.",
+    "image": "https://cpimg.tistatic.com/13094746/b/4/Dusty-Rose-Printed-Kurti-with-Tassel-Hem-Farshi-Salwar-Set..jpg"
+  },
+  {
+    "id": "short-04",
+    "category": "short-kurti",
+    "name": "Black Desi Wear",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Simple black kurti with a fresh and elegant look.",
+    "image": "https://i.pinimg.com/736x/4d/3b/4a/4d3b4ab0754e8d0135ba437319e205b4.jpg"
+  },
+  {
+    "id": "short-05",
+    "category": "short-kurti",
+    "name": "Brown Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Casual Bell Sleeves Printed Women Brown Top",
+    "image": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/top/i/r/1/xs-1-side-cut-top-fabricfetch-textiles-original-imahzqmpmzhzs8zf.jpeg?q=70"
+  },
+  {
+    "id": "short-06",
+    "category": "short-kurti",
+    "name": "White With Green Print",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Elegant white and green printed kurti simple, comfy and stylish outfit.",
+    "image": "https://i.pinimg.com/736x/92/83/72/9283727afa30264add0d6bcf3bcf5551.jpg"
+  },
+  {
+    "id": "short-07",
+    "category": "short-kurti",
+    "name": "White With Pink Flower",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Simple white floral kurti with a fresh and elegant look.",
+    "image": "https://i.pinimg.com/736x/b1/d2/88/b1d288e62c9bd9f76eaaae3d4b17bc24.jpg"
+  },
+  {
+    "id": "short-08",
+    "category": "short-kurti",
+    "name": "Maroon Simple Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Simple plain maroon kurti giving baddie vibes.",
+    "image": "https://i.pinimg.com/736x/d0/a1/3a/d0a13a557c9ca20baf2177cba6cac2f9.jpg"
+  },
+  {
+    "id": "short-09",
+    "category": "short-kurti",
+    "name": "Crimson Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A vibrant red sleeveless cotton kurti with high side slits for a modern casual style.",
+    "image": "https://i.pinimg.com/736x/f9/fb/91/f9fb91245329dfde557d6fb775dc3060.jpg"
+  },
+  {
+    "id": "short-10",
+    "category": "short-kurti",
+    "name": "Brown Wide Slevee",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A simple, chocolate-brown short kurti featuring a V-notch neck and flare-style long sleeves.",
+    "image": "https://i.pinimg.com/736x/31/12/ae/3112ae34f83df5fd53b1c57f6ab9fe14.jpg"
+  },
+  {
+    "id": "short-11",
+    "category": "short-kurti",
+    "name": "Olive Ethnic Glam",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A olive-green sleeveless kurti featuring intricate mirror work and tassel details.",
+    "image": "https://i.pinimg.com/736x/5e/18/23/5e1823640dd2fb148b32abc9bd8b8d8c.jpg"
+  },
+  {
+    "id": "short-12",
+    "category": "short-kurti",
+    "name": "White & Black Printed",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A stylish white, printed sleeveless short kurti.",
+    "image": "https://i.pinimg.com/736x/98/a8/f5/98a8f541697d7fcec38183d20d0d3910.jpg"
+  },
+  {
+    "id": "short-13",
+    "category": "short-kurti",
+    "name": "Retro-chic elegance",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Featuring a flattering sweetheart neckline, dreamy bell sleeves, and corset fit-finished",
+    "image": "https://i.pinimg.com/736x/52/69/4f/52694ff5cb03b2d0f4bb9534aed619fe.jpg"
+  },
+  {
+    "id": "short-14",
+    "category": "short-kurti",
+    "name": "Olive green",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Featuring a sweetheart neckline, pom-pom lace and a deep square back with dori tie-up.",
+    "image": "https://i.pinimg.com/736x/4e/db/0e/4edb0eb79a954166f3f3d51e1c7162fd.jpg"
+  },
+  {
+    "id": "short-15",
+    "category": "short-kurti",
+    "name": "Red printed tie-strap",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A breezy red printed tie-strap top with adjustable shoulder bows.",
+    "image": "https://i.pinimg.com/736x/7b/5e/64/7b5e64b5a0ac6ea97908e32623ba23b0.jpg"
+  },
+  {
+    "id": "short-16",
+    "category": "short-kurti",
+    "name": "Blue Floral Printed",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Elegant blue floral kurti top ,it features a classic round neck, sleeveless design.",
+    "image": "https://i.pinimg.com/736x/64/24/31/642431bd54a13e243ecc7ff98a5d8fc0.jpg"
+  },
+
+
+  {
+    "id": "long-01",
+    "category": "long-kurti",
+    "name": "Black Floral Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Women's Rayon Printed Nayra Cut Long Kurti, Black, Full Sleeve, Casual",
+    "image": "https://i.pinimg.com/736x/ee/78/41/ee78412ba890503bf23a3d6a1a1bbee2.jpg"
+  },
+  {
+    "id": "long-02",
+    "category": "long-kurti",
+    "name": "Traditional kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A maroon/rust-red straight kurta featuring delicate white geometric prints.",
+    "image": "https://i.pinimg.com/736x/ac/88/e4/ac88e498ddd7857080432411fb3d115d.jpg"
+  },
+  {
+    "id": "long-03",
+    "category": "long-kurti",
+    "name": "Sleeveless navy-blue",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Ethnic kurti with white geometric prints and shoulder tie-up details.",
+    "image": "https://i.pinimg.com/736x/1f/5f/b1/1f5fb15f9a6b25803248d7e3669935ed.jpg"
+  },
+  {
+    "id": "long-04",
+    "category": "long-kurti",
+    "name": "Black Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Desi black kurti with mini design.",
+    "image": "https://i.pinimg.com/736x/78/8f/4d/788f4d1c3e4fcb4f36819817259385c6.jpg"
+  },
+  {
+    "id": "long-05",
+    "category": "long-kurti",
+    "name": "Pink Straight Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A sleeveless pink printed straight kurta with side slits.",
+    "image": "https://i.pinimg.com/736x/9a/4d/7e/9a4d7ea8ed4ab9a00632374690f53db7.jpg"
+  },
+  {
+    "id": "long-06",
+    "category": "long-kurti",
+    "name": "Black puff sleeve",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A Straight kurta featuring small silver/white motif embroidery and a scalloped neckline.",
+    "image": "https://i.pinimg.com/736x/3d/35/5b/3d355bbe17a48d9bd31e5dc77a9c308d.jpg"
+  },
+  {
+    "id": "long-07",
+    "category": "long-kurti",
+    "name": "Fuschia pink kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": " fuschia pink kurti featuring delicate white embroidered motifs and charming puff sleeves,",
+    "image": "https://i.pinimg.com/736x/2a/d4/94/2ad49447bb87b07cec75598f44b2b553.jpg"
+  },
+  {
+    "id": "long-08",
+    "category": "long-kurti",
+    "name": "Lavender Ikat Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Ethnic wardrobe with this lavender ikat cotton kurti, designed for effortless everyday elegance",
+    "image": "https://i.pinimg.com/736x/5c/f1/93/5cf193bbdda6f7dec9764891690c6093.jpg"
+  },
+  {
+    "id": "long-09",
+    "category": "long-kurti",
+    "name": "Indigo Tie-Strap",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Kurti features stylish shoulder tie-straps and a side-slit design, giving Indo-Western vibe.",
+    "image": "https://i.pinimg.com/1200x/6b/2b/c1/6b2bc187fc2f55f18f1a15f46d5b8c75.jpg"
+  },
+  {
+    "id": "long-10",
+    "category": "long-kurti",
+    "name": "Soft Florals",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Soft  florals, dreamy layers & effortless elegance in blue.",
+    "image": "https://i.pinimg.com/736x/56/4c/76/564c7606a0e675dc82d84a3c4a6fb586.jpg"
+  },
+  {
+    "id": "long-11",
+    "category": "long-kurti",
+    "name": "Sage Green Kurti",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A beautiful sage green printed kurta for a simple, graceful ethnic look",
+    "image": "https://i.pinimg.com/736x/21/ca/3c/21ca3cd7f21bfc90c376729f69bc77af.jpg"
+  },
+  {
+    "id": "long-12",
+    "category": "long-kurti",
+    "name": "Blue halter neck",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Minimal, elegant,with halter neck and effortlessly stylish for every occasion.",
+    "image": "https://i.pinimg.com/736x/87/ea/27/87ea277953a2268afd71db0666f71203.jpg"
+  },
+
+  {
+    "id": "farsi-01",
+    "category": "farsi-suit",
+    "name": "Pink Farsi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Pretty pink Farsi-style suit with a comfortable salwar look.",
+    "image": "https://i.pinimg.com/736x/1b/d9/c1/1bd9c1b3d8b6aaea4eb3fc342b9a84b0.jpg"
+  },
+  {
+    "id": "farsi-02",
+    "category": "farsi-suit",
+    "name": "Brown Farsi Salwar Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Elegant Brown Farsi suit with a stylish traditional touch.",
+    "image": "https://i.pinimg.com/1200x/71/80/e3/7180e35813ccde0e07b48a6e7b939a97.jpg"
+  },
+  {
+    "id": "farsi-03",
+    "category": "farsi-suit",
+    "name": "Blue Farsi Suit",
+    "sizes": ["S", "M", "L"],
+    "description": "Comfortable blue Farsi suit designed for an effortless feminine look.",
+    "image": "https://i.pinimg.com/736x/fd/f2/5c/fdf25cd5f557a910423d98ae598cb6bf.jpg"
+  },
+  {
+    "id": "farsi-04",
+    "category": "farsi-suit",
+    "name": "White Farsi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Beautiful White Farsi suit with pink lace for stylish everyday wear.",
+    "image": "https://i.pinimg.com/736x/e1/ca/34/e1ca3424cee3c8ed3402f847e2d535e3.jpg"
+  },
+  {
+    "id": "farsi-05",
+    "category": "farsi-suit",
+    "name": "Blue Farsi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Beautiful blue Farsi suit with heart salwar stylish everyday wear.",
+    "image": "https://i.pinimg.com/736x/3a/e9/e7/3ae9e75c7f6bdb1852ab16b37fa920b2.jpg"
+  },
+  {
+    "id": "farsi-06",
+    "category": "farsi-suit",
+    "name": "Yellow Farsi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Beautiful Yellow Farsi suit with sunflower print in salwar.",
+    "image": "https://i.pinimg.com/736x/f8/9f/cb/f89fcb1405883426d2af034cdd78ecf8.jpg"
+  },
+  {
+    "id": "farsi-07",
+    "category": "farsi-suit",
+    "name": "White Farsi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Beautiful white with pink heart Farsi kurti with plain pink salwar.",
+    "image": "https://i.pinimg.com/736x/c7/12/66/c7126664b4a40b3896c1dac58fbcc649.jpg"
+  },
+  {
+    "id": "farsi-08",
+    "category": "farsi-suit",
+    "name": "White Farsi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Beautiful white with red heart Farsi suit for stylish everyday wear.",
+    "image": "https://i.pinimg.com/736x/4b/ae/e1/4baee1f1bbf3d62f0aabbe8668bcf44e.jpg"
+  },
+  {
+    "id": "farsi-09",
+    "category": "farsi-suit",
+    "name": "Mustard Floral Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Mustard floral suit set featuring a beautifully printed kurta with statement flared sleeves.",
+    "image": "https://i.pinimg.com/736x/c0/1f/84/c01f84533f2ef99a7ac2d09cdab718c0.jpg"
+  },
+  {
+    "id": "farsi-10",
+    "category": "farsi-suit",
+    "name": "Blue Floral Farshi",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Navy blue floral print, detailed with neckline and sleeves, perfectly paired with teal-blue",
+    "image": "https://i.pinimg.com/736x/f3/ef/cf/f3efcf4fc63e4cb8d352fa42ee406772.jpg"
+  },
+  {
+    "id": "farsi-11",
+    "category": "farsi-suit",
+    "name": "Mauve Farshi Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "An elegant solid mauve-purple two-piece ensemble featuring a relaxed V-neck Farshi suit",
+    "image": "https://i.pinimg.com/736x/e8/1b/fb/e81bfbea250b1d09508886d4ce332c3f.jpg"
+  },
+  {
+    "id": "farsi-12",
+    "category": "farsi-suit",
+    "name": "Off-White Floral",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Featuring a short V-neck kameez with three-quarter flared sleeves paired with wide-legged,",
+    "image": "https://i.pinimg.com/736x/b5/2e/24/b52e24fe16642006678bbe3ae8199304.jpg"
+  },
+  {
+    "id": "farsi-13",
+    "category": "farsi-suit",
+    "name": "White pink Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Ethnic outfit featuring a short, straight tunic paired with wide-leg, straight-cut trousers finished with detailed bottom borders.",
+    "image": "https://i.pinimg.com/736x/e1/98/de/e198de8f4a33417480bf41a3c212a22d.jpg"
+  },
+  {
+    "id": "farsi-14",
+    "category": "farsi-suit",
+    "name": "Off white Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Beautiful off-white floral side tie-up kurti paired with olive green wide palazzo",
+    "image": "https://i.pinimg.com/736x/be/01/5d/be015d97fdce3a28d07a44232cab8025.jpg"
+  },
+  {
+    "id": "farsi-15",
+    "category": "farsi-suit",
+    "name": "Elegant Red Suit",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "This outfit combines grace, style, and a classic ethnic vibe that never goes out of fashion",
+    "image": "https://i.pinimg.com/736x/6c/95/06/6c950663deb1f2f6ecfa23aeebddee2b.jpg"
+  },
+  {
+    "id": "farsi-16",
+    "category": "farsi-suit",
+    "name": "Black & Printed Salwar",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Perfect blend of comfort, style, and modern fashion. Whether it's a casual outing, festive celebration, or family gathering.",
+    "image": "https://i.pinimg.com/736x/4a/b7/68/4ab7682c646d0a90eb70e94bec58c86e.jpg"
+  },
+
+  {
+    "id": "layer-1",
+    "category": "layer-gown",
+    "name": "Red and White",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A red-and-white spaghetti-strap maxi dress featuring tiered gathered skirt.",
+    "image": "https://i.pinimg.com/736x/37/51/79/375179cc4e1c3d99d1d8eaaf0d7403d7.jpg"
+  },
+  {
+    "id": "layer-2",
+    "category": "layer-gown",
+    "name": "Sunshine Maxi Dress",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Bright orange maxi dress featuring a relaxed sleeveless design and flowy volume.",
+    "image": "https://i.pinimg.com/736x/01/95/14/01951458d8ba5f0ecee2a927fa38f60a.jpg"
+  },
+  {
+    "id": "layer-3",
+    "category": "layer-gown",
+    "name": "Olive-green sleeveless",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A dress featuring a square neckline and white wavy detailing along the waist, and tiers.",
+    "image": "https://i.pinimg.com/736x/ce/f9/08/cef908b99f7fd11fa0831bca261db74d.jpg"
+  },
+  {
+    "id": "layer-4",
+    "category": "layer-gown",
+    "name": "Burgundy Tiered Maxi",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Maxi dress featuring a adjustable bow shoulder straps, delicate lace-trimmed tiers, and a flowy",
+    "image": "https://i.pinimg.com/736x/60/29/3e/60293e31b4bfb5d1ce1e32b7af35313c.jpg"
+  },
+  {
+    "id": "layer-5",
+    "category": "layer-gown",
+    "name": "Light Blue Maxi",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A light blue and white gingham halter-neck tiered maxi dress.",
+    "image": "https://i.pinimg.com/736x/ac/76/91/ac7691429e149c81706136fff716dc0b.jpg"
+  },
+  {
+    "id": "layer-6",
+    "category": "layer-gown",
+    "name": "Red sleeveless",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A sleeveless spaghetti-strap maxi dress featuring white tassel lace.",
+    "image": "https://i.pinimg.com/736x/38/34/0b/38340b455090b09dfd1d0c2c62e75338.jpg"
+  },
+  {
+    "id": "layer-7",
+    "category": "layer-gown",
+    "name": "Pink Floral Maxi ",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "This elegant sleeveless dress combines classy charm with trendy modern fashion.",
+    "image": "https://i.pinimg.com/736x/3d/0e/89/3d0e8922064eaab2d423fa1c818e1187.jpg"
+  },
+  {
+    "id": "layer-8",
+    "category": "layer-gown",
+    "name": "Lavender With Daisy",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "A puff-sleeve tiered midi dress featuring white daisy and a sweetheart neckline.",
+    "image": "https://i.pinimg.com/736x/87/e7/e0/87e7e0e6aa1d2b05bf32968f22a5fca8.jpg"
+  }
+]

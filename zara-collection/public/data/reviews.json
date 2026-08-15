@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "productId": "short-01",
+    "name": "Priya",
+    "rating": 5,
+    "comment": "Very pretty kurti! The fabric is comfortable and the colour is beautiful.",
+    "image": "",
+    "date": "2026-08-01"
+  },
+  {
+    "id": 2,
+    "productId": "short-01",
+    "name": "Neha",
+    "rating": 4,
+    "comment": "Nice design and affordable price. Size was also perfect.",
+    "image": "",
+    "date": "2026-08-03"
+  },
+  {
+    "id": 3,
+    "productId": "short-02",
+    "name": "Riya",
+    "rating": 5,
+    "comment": "Loved the blue colour. Looks exactly like the picture.",
+    "image": "",
+    "date": "2026-08-04"
+  },
+  {
+    "id": 4,
+    "productId": "long-01",
+    "name": "Ananya",
+    "rating": 5,
+    "comment": "Beautiful long kurti and very comfortable for daily wear.",
+    "image": "",
+    "date": "2026-08-05"
+  },
+  {
+    "id": 5,
+    "productId": "long-01",
+    "name": "Kavya",
+    "rating": 4,
+    "comment": "Good quality and lovely design. Very happy with my purchase.",
+    "image": "",
+    "date": "2026-08-06"
+  },
+  {
+    "id": 6,
+    "productId": "long-03",
+    "name": "Simran",
+    "rating": 5,
+    "comment": "The lavender colour is so beautiful. Highly recommended!",
+    "image": "",
+    "date": "2026-08-07"
+  },
+  {
+    "id": 7,
+    "productId": "farsi-01",
+    "name": "Pooja",
+    "rating": 5,
+    "comment": "Very comfortable Farsi suit and the fitting was nice.",
+    "image": "",
+    "date": "2026-08-08"
+  },
+  {
+    "id": 8,
+    "productId": "farsi-01",
+    "name": "Mehak",
+    "rating": 4,
+    "comment": "Pretty suit at a very affordable price.",
+    "image": "",
+    "date": "2026-08-09"
+  },
+  {
+    "id": 9,
+    "productId": "farsi-02",
+    "name": "Shreya",
+    "rating": 5,
+    "comment": "Loved the design and fabric. Definitely worth the price.",
+    "image": "",
+    "date": "2026-08-10"
+  },
+  {
+    "id": 10,
+    "productId": "short-04",
+    "name": "Aditi",
+    "rating": 5,
+    "comment": "Simple and elegant. Perfect for everyday use.",
+    "image": "",
+    "date": "2026-08-11"
+  }
+]
