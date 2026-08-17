@@ -84,7 +84,7 @@ function Home() {
           <div>
             <span>🚚</span>
             <h3>Home Delivery</h3>
-            <p>For Delhi</p>
+            <p>For Delhi NCR</p>
           </div>
 
           <div>
